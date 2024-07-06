@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxlZHVjYXRpb258ZW58MHx8fHwxNjk0NzczNzM2fDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1568667256549-094345857637?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxsaWJyYXJ5fGVufDB8fHx8MTcyMDI3OTI3N3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -46,11 +46,11 @@ coverY: 0
 
 **Contributing with PDFs/PPTs**
 
-For example, if you want to contribute to **S5 -> Computer Networks -> Module 1**, follow these steps:
+For example, if you want to contribute to **S5 -> Operating System -> Module 1**, follow these steps:
 
-1. Send an edit request to this [folder](https://drive.google.com/drive/folders/1OAoxDY5tkeUGZHzT4uw4dZTuRtjBsZQh?usp=sharing)
+1. Send an edit request to this [folder](https://drive.google.com/drive/u/1/folders/1ahFIdBtGd8wGD7IKp6AorN3F1d65pyc6)
 2. Create a new folder with \<your full name> in it.
-3. There is a [sample folder](https://drive.google.com/drive/folders/1OAoxDY5tkeUGZHzT4uw4dZTuRtjBsZQh?usp=sharing) inside which contains sample submission on how to contribute pdf files and textbooks.&#x20;
+3. There is a [sample folder](https://drive.google.com/drive/u/1/folders/1ahFIdBtGd8wGD7IKp6AorN3F1d65pyc6) inside which contains sample submission on how to contribute pdf files and textbooks.
 
 **Contributing Text Content**
 
