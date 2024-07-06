@@ -65,6 +65,6 @@ We appreciate your efforts to improve our site and look forward to your contribu
 
 ## Contributors
 
-<figure><img src=".gitbook/assets/karthik_pro.jpg" alt="" width="188"><figcaption><p><strong>Karthik G Kumar</strong><br><strong>💌 karthikgkumar.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/karthik-g-kumar"><strong>Linkedin</strong></a><br></p></figcaption></figure>
+<figure><img src=".gitbook/assets/vipinv.jpg" alt="" width="188"><figcaption><p><strong>Vipin Das Velappan</strong><br><strong>💌 vipindas233.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/vipinv233/"><strong>Linkedin</strong></a><br></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/My photo.jpg" alt="" width="320"><figcaption><p><strong>Varsha Thomas</strong><br><strong>✉️ varshathomas364@gmail.com ▶</strong><a href="https://www.linkedin.com/in/varsha-thomas-6b6530255/"> <strong>Linkedin</strong></a><br></p></figcaption></figure>
+<figure><img src=".gitbook/assets/gokulgk.jpg" alt="" width="320"><figcaption><p><strong>Gokul G K</strong><br><strong>✉️ gokulgkblueheart@gmail.com ▶</strong><a href="https://www.linkedin.com/in/gokul0gk/"> <strong>Linkedin</strong></a><br></p></figcaption></figure>
