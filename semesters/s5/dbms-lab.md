@@ -1,7 +1,6 @@
 ---
 description: CSL333 - Database Management Systems Lab
-cover: >-
-  https://images.unsplash.com/photo-1662026911591-335639b11db6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxzcWx8ZW58MHx8fHwxNzE5MDUzMTI4fDA&ixlib=rb-4.0.3&q=85
+cover: https://i0.wp.com/i.postimg.cc/sX7gYM90/dbms.png?resize=524%2C336&ssl=1
 coverY: 0
 layout:
   cover:
@@ -33,6 +32,6 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[DBMS Lab Textbook](https://drive.google.com/drive/folders/1ox_y2AgKseRmGy22mfNSpUvyVZGUpzK0?usp=drive_link)👈
+[DBMS Lab Textbook](https://drive.google.com/drive/folders/1ox\_y2AgKseRmGy22mfNSpUvyVZGUpzK0?usp=drive\_link)👈
 
 </details>
