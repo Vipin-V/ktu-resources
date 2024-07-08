@@ -69,5 +69,5 @@ We appreciate your efforts to improve our site and look forward to your contribu
 
 <figure><img src=".gitbook/assets/gokulgk.jpg" alt="" width="320"><figcaption><p><strong>Gokul G K</strong><br><strong>✉️ gokulgkblueheart@gmail.com ▶</strong><a href="https://www.linkedin.com/in/gokul0gk/"> <strong>Linkedin</strong></a><br></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/fr.png" alt="" width="375"><figcaption><p><strong>Ridwan</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/fr.png" alt="" width="375"><figcaption><p><strong>Ridwana</strong></p></figcaption></figure>
 
