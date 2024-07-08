@@ -68,3 +68,6 @@ We appreciate your efforts to improve our site and look forward to your contribu
 <figure><img src=".gitbook/assets/vipinv.jpg" alt="" width="188"><figcaption><p><strong>Vipin Das Velappan</strong><br><strong>💌 vipindas233.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/vipinv233/"><strong>Linkedin</strong></a><br></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/gokulgk.jpg" alt="" width="320"><figcaption><p><strong>Gokul G K</strong><br><strong>✉️ gokulgkblueheart@gmail.com ▶</strong><a href="https://www.linkedin.com/in/gokul0gk/"> <strong>Linkedin</strong></a><br></p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/fr.png" alt="" width="375"><figcaption><p><strong>Ridwan</strong></p></figcaption></figure>
+
